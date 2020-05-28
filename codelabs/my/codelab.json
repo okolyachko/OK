@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-05-28T11:44:57+03:00",
+  "id": "my",
+  "duration": 9,
+  "title": "My Codelab Sample",
+  "authors": "OK",
+  "summary": "My Codelab",
+  "source": "my-codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "medium"
+  ],
+  "feedback": "my",
+  "url": "my"
+}
